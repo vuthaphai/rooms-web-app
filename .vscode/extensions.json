@@ -1,4 +1,18 @@
 {
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
-  "recommendations": ["angular.ng-template"]
+  "recommendations": [
+    "angular.ng-template",                      // Angular Language Service
+    "johnpapa.Angular2",                        // Angular Snippets
+    "infinity1207.angular2-switcher",           // Quick file switching for Angular components
+    "alexiv.vscode-angular2-files",             // Angular file generator
+    "esbenp.prettier-vscode",                   // Prettier for code formatting
+    "dbaeumer.vscode-eslint",                   // ESLint for linting and best practices
+    "christian-kohler.path-intellisense",       // Autocomplete file paths
+    "rangav.vscode-thunder-client",             // REST client for API testing
+    "mrmlnc.vscode-json-to-ts",                 // Convert JSON to TypeScript interfaces
+    "PKief.material-icon-theme",                // Material icons for better file navigation
+    "nrwl.angular-console",                     // Nx Console (if you're using Nx workspace)
+    "bradlc.vscode-tailwindcss",                // Tailwind CSS IntelliSense (if applicable)
+    "ms-vscode.vscode-typescript-next"          // TypeScript nightly builds (for cutting-edge TS features)
+  ]
 }
